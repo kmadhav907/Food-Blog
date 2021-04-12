@@ -1,3 +1,6 @@
+## DEMO 
+<a href='https://foodiewebsite.vercel.app/'> Click here </a>
+#### Mobile UI IS PENDING
 ## Getting Started
 First, run the development server:
 
